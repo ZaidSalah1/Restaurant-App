@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:title="Home"
+            android:icon="@drawable/home_ic"
+            />
+
+        <item
+            android:id="@+id/fav"
+            android:title="Favorite"
+            android:icon="@drawable/favorite_ic"
+            />
+
+        <item
+            android:id="@+id/shopping"
+            android:title="Shopping"
+            android:icon="@drawable/shopping_ic"
+            />
+
+        <item
+            android:id="@+id/daily"
+            android:title="Daily Meal"
+            android:icon="@drawable/daily_ic"
+            />
+        </group>
+
+    <item android:title="Account">
+
+        <menu>
+            <item
+                android:id="@+id/setting"
+                android:title="Settings"
+                android:icon="@drawable/settings_ic"
+                />
+
+
+        </menu>
+
+    </item>
+</menu>
