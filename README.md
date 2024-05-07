@@ -4,7 +4,7 @@ This Android app offers a unique dining experience with its special design and i
 # Register Screens 
 ![123](https://github.com/zaidsalah123er/Restaurant-App/assets/89332179/ba799ebe-bab9-4e73-9bc5-742a67ff1352)
 
-# App Design
+#  Food types with a search bar
 ![456](https://github.com/zaidsalah123er/Restaurant-App/assets/89332179/bc81dc1a-649e-4617-b00d-e99c9f067a6f)
 
 # 
